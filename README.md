@@ -1,2 +1,4 @@
 # test
-the first repository
+哈哈哈哈哈哈
+
+i have creat my first github file ~
